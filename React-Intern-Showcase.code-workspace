@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "01-taskflow-pro"
+    },
+    {
+      "path": "02-expenseiq-dashboard"
+    },
+    {
+      "path": "03-shopcart-studio"
+    },
+    {
+      "path": "04-moviehub-explorer"
+    },
+    {
+      "path": "05-habitforge-planner"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "files.exclude": {
+      "**/node_modules": true
+    }
+  }
+}
